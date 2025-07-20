@@ -19,5 +19,6 @@
 5. Building a Multi-Module Spring Boot Application with Gradle
    - has dependencyManagement
    - https://reflectoring.io/spring-boot-gradle-multi-module/
+   - https://github.com/thombergs/buckpal/tree/multi-module
 
 
