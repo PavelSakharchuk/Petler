@@ -12,6 +12,10 @@ https://dev.to/all-things-dev/spring-boot-multi-module-project-with-gradle-conve
 How to create multi module java project with gradle
 https://www.youtube.com/watch?v=5ZYOyo8ciBo
 
-4. 
+4. If you use few implementation in other modules and use them throw interface. Differents dependences files.
 Creating a Gradle multi-module project
 https://tmsvr.com/gradle-multi-module-build/
+
+5. If you use few implementation in other modules and use them throw interface
+Building a Multi-Module Spring Boot Application with Gradle
+https://reflectoring.io/spring-boot-gradle-multi-module/
